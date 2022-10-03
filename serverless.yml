@@ -6,8 +6,7 @@ provider:
   name: aws
   runtime: nodejs16.x
   region: eu-west-1
-  # setup profile for AWS CLI.
-  # profile: node-aws
+  profile: personal
 
 plugins:
   - serverless-finch
