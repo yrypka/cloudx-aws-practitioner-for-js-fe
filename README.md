@@ -73,10 +73,14 @@ Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
 ## Links
 
-### Website URL - CloudFront
-
-https://d1sp2x72jqsclv.cloudfront.net/
-
-### Website URL - S3
+### Serving from S3
 
 http://my-store-app-manual.s3-website-us-east-1.amazonaws.com/
+
+### Serving via CloudFront
+
+https://d2fgwa05hqvp7p.cloudfront.net/
+
+### Serving from S3 (Restricted Access)
+
+http://my-store-app-test-abc.s3-website-us-east-1.amazonaws.com/
