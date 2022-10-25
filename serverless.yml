@@ -1,3 +1,5 @@
+org: 'yrypka'
+app: 'cloudx-aws-practitioner-for-js'
 service: my-store-app
 
 frameworkVersion: '3'
